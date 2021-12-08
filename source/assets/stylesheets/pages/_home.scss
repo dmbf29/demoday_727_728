@@ -1,1 +1,14 @@
-// Specific CSS for your home-page
+.welcome {
+  background-image: image_url('demo_day.png');
+  background-size: contain;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  p {
+    color: white;
+  }
+}
+
+body {
+  background-color: #B5311F;
+}
